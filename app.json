@@ -1,5 +1,5 @@
 ﻿{
-    "name": "kegib",
+    "name": "kjmnij",
     "description": "v2ray websocket proxy on heroku",
     "keywords": ["v2ray vmess vless trojan shadowsocks socks tor"],
     "env": {
@@ -12,7 +12,7 @@
             "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/hegtrj/rayv2/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/aadsyu/kjdj/blob/master/etc/CADDYIndexPage.md",
             "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
         },
         "CONFIGCADDY": {
